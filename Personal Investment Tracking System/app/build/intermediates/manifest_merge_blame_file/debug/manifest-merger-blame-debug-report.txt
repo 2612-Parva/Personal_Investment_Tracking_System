@@ -1,0 +1,116 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.investrack.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:7:5-39:19
+14        android:allowBackup="true"
+14-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\30d6bb4173e33d58e20bd44df82a8b0f\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:9:9-65
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:fullBackupContent="@xml/backup_rules"
+19-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:10:9-54
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:11:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.Investrack" >
+25-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:15:9-48
+26        <activity
+26-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:17:9-19:42
+27            android:name="com.investrack.app.MainActivity"
+27-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:18:13-41
+28            android:label="Investrack" />
+28-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:19:13-39
+29        <activity
+29-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:20:9-22:46
+30            android:name="com.investrack.app.NewInvestmentActivity"
+30-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:21:13-50
+31            android:label="New Investment" />
+31-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:22:13-43
+32        <activity
+32-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:23:9-25:44
+33            android:name="com.investrack.app.TransactionsActivity"
+33-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:24:13-49
+34            android:label="Transactions" />
+34-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:25:13-41
+35        <activity
+35-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:26:9-35:20
+36            android:name="com.investrack.app.LoginActivity"
+36-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:27:13-42
+37            android:exported="true"
+37-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:28:13-36
+38            android:theme="@style/Theme.Investrack.Signin" >
+38-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:29:13-59
+39            <intent-filter>
+39-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:30:13-34:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:31:17-69
+40-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:31:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:33:17-77
+42-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:33:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:36:9-38:62
+46            android:name="com.investrack.app.SignUpActivity"
+46-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:37:13-43
+47            android:theme="@style/Theme.Investrack.Signin" />
+47-->C:\Users\parva\AndroidStudioProjects\Personal Investment Tracking System\app\src\main\AndroidManifest.xml:38:13-59
+48
+49        <service
+49-->[androidx.room:room-runtime:2.4.2] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\b7f0412e2f586b03352d8543fdcb7484\transformed\room-runtime-2.4.2\AndroidManifest.xml:25:9-28:40
+50            android:name="androidx.room.MultiInstanceInvalidationService"
+50-->[androidx.room:room-runtime:2.4.2] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\b7f0412e2f586b03352d8543fdcb7484\transformed\room-runtime-2.4.2\AndroidManifest.xml:26:13-74
+51            android:directBootAware="true"
+51-->[androidx.room:room-runtime:2.4.2] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\b7f0412e2f586b03352d8543fdcb7484\transformed\room-runtime-2.4.2\AndroidManifest.xml:27:13-43
+52            android:exported="false" />
+52-->[androidx.room:room-runtime:2.4.2] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\b7f0412e2f586b03352d8543fdcb7484\transformed\room-runtime-2.4.2\AndroidManifest.xml:28:13-37
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\f1cd3c067e00b8f6b616b9021613a96d\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\f1cd3c067e00b8f6b616b9021613a96d\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+56            android:authorities="com.investrack.app.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\f1cd3c067e00b8f6b616b9021613a96d\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\f1cd3c067e00b8f6b616b9021613a96d\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\f1cd3c067e00b8f6b616b9021613a96d\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\f1cd3c067e00b8f6b616b9021613a96d\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\f1cd3c067e00b8f6b616b9021613a96d\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\08cce6033014c0fd7ad68f95471c7c64\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\08cce6033014c0fd7ad68f95471c7c64\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\parva\Saved Games\BookHub\caches\transforms-3\08cce6033014c0fd7ad68f95471c7c64\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>

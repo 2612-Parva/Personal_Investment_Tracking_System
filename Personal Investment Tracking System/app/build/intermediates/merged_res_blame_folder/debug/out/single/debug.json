@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_transaction_row.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\transaction_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_activity_new_investment.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\activity_new_investment.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_more.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_selector.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_activity_transactions.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\activity_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_background.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_news.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.investrack.app-merged_res-4:/layout_activity_sign_up.xml.flat",
+        "source": "com.investrack.app-main-6:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_fragment_portfolio.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\fragment_portfolio.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_search_row.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\search_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_fragment_news.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_investment_row.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\investment_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_watchlist.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\watchlist.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_portfolio.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\portfolio.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_news_list_row.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\news_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_watchlist_row.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\watchlist_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_fragment_watchlist.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\fragment_watchlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_watchlists.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\watchlists.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\menu_nav_items.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\menu\\nav_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_settings.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]

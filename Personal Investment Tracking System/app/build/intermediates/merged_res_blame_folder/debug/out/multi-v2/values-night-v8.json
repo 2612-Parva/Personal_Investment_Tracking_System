@@ -1,0 +1,112 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\parva\\Saved Games\\BookHub\\daemon\\8.0\\com.investrack.app-mergeDebugResources-2:\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\parva\\Saved Games\\BookHub\\caches\\transforms-3\\55d2837651bd1b27ce2e2c48a2df3bcc\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,46",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,3924",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,4008"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\parva\\AndroidStudioProjects\\Personal Investment Tracking System\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "799"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1265"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\parva\\Saved Games\\BookHub\\caches\\transforms-3\\2afa74e2037f5fc71533b0b3fd2cbaf8\\transformed\\material-1.5.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1270,1345,1456,1545,1646,1753,1860,1959,2062,2150,2274,2376,2478,2594,2696,2810,2938,3054,3176,3312,3432,3566,3686,3798,4013,4130,4254,4384,4506,4644,4778,4894",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1340,1451,1540,1641,1748,1855,1954,2057,2145,2269,2371,2473,2589,2691,2805,2933,3049,3171,3307,3427,3561,3681,3793,3919,4125,4249,4379,4501,4639,4773,4889,5009"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.investrack.app-mergeDebugResources-2:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\parva\\Saved Games\\BookHub\\caches\\transforms-3\\55d2837651bd1b27ce2e2c48a2df3bcc\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,59",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,4512",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,4596"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\parva\\AndroidStudioProjects\\Personal Investment Tracking System\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,805",
+                        "endLines": "14,28",
+                        "endColumns": "12,12",
+                        "endOffsets": "799,1509"
+                    },
+                    "to": {
+                        "startLines": "9,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "687,1270",
+                        "endLines": "21,34",
+                        "endColumns": "12,12",
+                        "endOffsets": "1265,1853"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\parva\\Saved Games\\BookHub\\caches\\transforms-3\\2afa74e2037f5fc71533b0b3fd2cbaf8\\transformed\\material-1.5.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,60,61,62,63,64,65,66,67",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1858,1933,2044,2133,2234,2341,2448,2547,2650,2738,2862,2964,3066,3182,3284,3398,3526,3642,3764,3900,4020,4154,4274,4386,4601,4718,4842,4972,5094,5232,5366,5482",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1928,2039,2128,2229,2336,2443,2542,2645,2733,2857,2959,3061,3177,3279,3393,3521,3637,3759,3895,4015,4149,4269,4381,4507,4713,4837,4967,5089,5227,5361,5477,5597"
+                    }
+                }
+            ]
+        }
+    ]
+}
